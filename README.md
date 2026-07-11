@@ -20,6 +20,6 @@ End-to-end machine learning project featuring customer segmentation with K-Means
 
 ![Cluster](images/cluster_visualization.png)
 
-## Elbow Method
+## Silhouette Score
 
 ![Elbow](images/elbow_method.png)
