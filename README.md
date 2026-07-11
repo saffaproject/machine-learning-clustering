@@ -15,3 +15,11 @@ Seaborn
 Scikit-learn
 Yellowbrick
 Joblib
+
+## 📈 Cluster Visualization
+
+![Cluster](images/cluster_visualization.png)
+
+## 📉 Elbow Method
+
+![Elbow](images/elbow_method.png)
