@@ -1,4 +1,4 @@
-# machine-learning-clustering
+# Machine Learning Clustering
 End-to-end machine learning project featuring customer segmentation with K-Means Clustering and classification using Decision Tree.
 # **Algorithms Used**
 - Exploratory Data Analysis (EDA)
